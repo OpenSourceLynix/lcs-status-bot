@@ -9,8 +9,8 @@
         "logo": "https://picsum.photos/200"
     },
     "node": {
-        "name": "Test Node",
-        "command": "testnode",
-        "hostname": "testnode.sryden.com"
+        "name": "United Kingdom",
+        "command": "uk-01",
+        "hostname": "uk-01.lynixsrv.online"
     }
 }
